@@ -9,6 +9,7 @@ This project focuses on classifying brain tumor MRI images into four categories:
 - Performance: Achieved an accuracy of 88.71%, significantly improving over the baseline model.
 
 *Dataset*
+
 The project utilized a publicly available MRI dataset, with images preprocessed to grayscale and a resolution of 30x30 pixels. Challenges included class imbalance and mislabeled samples.
 
 *Tools and Techniques*
