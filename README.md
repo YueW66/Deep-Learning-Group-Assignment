@@ -11,12 +11,9 @@ This project focuses on classifying brain tumor MRI images into four categories:
 
 
 *Dataset*
-
-The project utilized a publicly available MRI dataset, with images preprocessed to grayscale and a resolution of 30x30 pixels. Challenges included class imbalance and mislabeled samples.
-
-Training dataset: https://drive.google.com/drive/folders/1HqZPNfp8YoHn_-lLIFTOC4Zj8NeJ2x67?usp=sharing
-
-Testing dataset: https://drive.google.com/drive/folders/1gG7ZOPfwltTEGG2SPlCTcayvXwTJYBjJ?usp=sharing
+- The project utilized a publicly available MRI dataset, with images preprocessed to grayscale and a resolution of 30x30 pixels. Challenges included class imbalance and mislabeled samples.
+- Training dataset: https://drive.google.com/drive/folders/1HqZPNfp8YoHn_-lLIFTOC4Zj8NeJ2x67?usp=sharing
+- Testing dataset: https://drive.google.com/drive/folders/1gG7ZOPfwltTEGG2SPlCTcayvXwTJYBjJ?usp=sharing
 
 
 *Tools and Techniques*
